@@ -1,10 +1,6 @@
 <!doctype html>
 <html lang="en" class="dark">
   <head>
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
-    <meta http-equiv="Pragma" content="no-cache" />
-    <meta http-equiv="Expires" content="0" />
-
     <!-- Prevent theme flash: Apply stored theme immediately before page renders -->
     <script>
       (function () {
@@ -469,11 +465,7 @@
     <script src="https://accounts.google.com/gsi/client" async></script>
     <!-- Paddle.js for checkout overlay (initialized in paddleService.ts with env token) -->
     <script src="https://cdn.paddle.com/paddle/v2/paddle.js" defer></script>
-    <!-- Meta Pixel Code — gated via window.__emergentTrackingAllowed (see allowlist at top of <head>
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
-    <meta http-equiv="Pragma" content="no-cache" />
-    <meta http-equiv="Expires" content="0" />
-) -->
+    <!-- Meta Pixel Code — gated via window.__emergentTrackingAllowed (see allowlist at top of <head>) -->
     <script>
       (function () {
         if (!window.__emergentTrackingAllowed) return;
@@ -549,7 +541,7 @@
       })();
     </script>
     <!-- End PartnerStack -->
-    <script type="module" crossorigin src="/main-DuksBqk-.js"></script>
+    <script type="module" crossorigin src="/main-Dq82bGrY.js"></script>
     <link rel="modulepreload" crossorigin href="/chunks/chunk-CuM-hhkF.js">
     <link rel="modulepreload" crossorigin href="/chunks/chunk-D1OFdgR-.js">
     <link rel="modulepreload" crossorigin href="/chunks/chunk-Z31AWSXh.js">
@@ -561,9 +553,8 @@
     <link rel="modulepreload" crossorigin href="/chunks/chunk-DiemmPV_.js">
     <link rel="modulepreload" crossorigin href="/chunks/chunk-D_OIAZXZ.js">
     <link rel="stylesheet" crossorigin href="/assets/monaco-editor-BetWCQm5.css">
-    <link rel="stylesheet" crossorigin href="/assets/main-DKj-n-sS.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-</head>
+    <link rel="stylesheet" crossorigin href="/assets/main-CtsgleMk.css">
+  </head>
   <body>
     <!-- Meta Pixel Code (noscript) -->
     <noscript
@@ -585,5 +576,5 @@
       ></iframe
     ></noscript>
     <!-- End Google Tag Manager (noscript) -->
-  <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a12286147c7395fd',t:'MTc4MjU0MzA5MQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+  <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a133f2a0cf1fc6d2',t:'MTc4MjcyNTc5NQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
